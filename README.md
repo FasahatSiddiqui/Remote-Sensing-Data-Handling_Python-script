@@ -6,5 +6,6 @@
 
 3- Dispaly all three kind of data for visualisation
 
-![image](https://user-images.githubusercontent.com/48371118/159632939-fc884f3e-d840-48b3-b599-2e68bf0a0ba1.png)
+![image](https://user-images.githubusercontent.com/48371118/159633073-a2a0e4fb-2d75-4b8e-ba5d-bf4457de1509.png)
+
 
