@@ -1,4 +1,4 @@
-# RemoteSensing_Dataview
+# Remote Sensing Data Handling_Python script
 
 1- Codes locate remote sensing file in given foleder.
 
