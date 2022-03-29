@@ -2,9 +2,9 @@
 
 1- Codes locate remote sensing file in given foleder.
 
-2- Convert imagery, DEM, and LiDAR data into readable format.
+2- It extract required information from imagery, DEM, and LiDAR data, e.g, x,y, and z coordinates from LAS lIDAR file.
 
-3- Dispaly all three kind of data for visualisation
+3- It dispaly all three kinds.
 
 ![image](https://user-images.githubusercontent.com/48371118/159633073-a2a0e4fb-2d75-4b8e-ba5d-bf4457de1509.png)
 
