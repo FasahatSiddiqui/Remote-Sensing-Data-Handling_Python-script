@@ -14,4 +14,4 @@
 
 ![image](https://user-images.githubusercontent.com/48371118/159633350-2f86e433-29e9-412a-bef2-ea16e1220eac.png)
 
-Data used here are extracted from the ELVIS (© Commonwealth of Australia (Geoscience Australia) 2021) and data are avialble at https://elevation.fsdf.org.au/ uder the Creative Commons Attribution 4.0 International Licence.
+Data used here are extracted from the ELVIS (© Commonwealth of Australia (Geoscience Australia) 2021) and data are avialble at https://elevation.fsdf.org.au/ under the Creative Commons Attribution 4.0 International Licence.
